@@ -1,0 +1,8 @@
+circle {
+   fill: black;
+ }
+ path {
+   fill: none;
+   stroke: steelblue;
+   stroke-width: 1.5px;
+ }
